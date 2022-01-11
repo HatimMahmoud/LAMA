@@ -1,0 +1,69 @@
+.ttip{
+    -fx-background-color: transparent;
+}
+
+.Button{
+    -fx-cursor: "Hand";
+}
+
+.start{
+    -fx-background-color: transparent;
+}
+
+.test{
+    -fx-padding: -50;
+}
+.invisButton{
+    -fx-padding: -50;
+    -fx-text-fill: #000000;
+}
+
+.scroll-pane {
+    -fx-background-color: transparent;
+}
+.scroll-pane > .viewport{
+    -fx-background-color: transparent;
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical{
+    -fx-background-color:transparent;
+}
+
+.increment-button, .decrement-button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+.scroll-bar:horizontal .track,
+.scroll-bar:vertical .track{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0em;
+}
+
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: grey;
+    -fx-background-radius: 5em;
+}
+
+.titled-pane {
+    -fx-border-color: transparent;
+}
+.titled-pane > .content
+{
+    -fx-background-color: transparent;
+}
+
+.vbox{
+    -fx-background-color: transparent;
+}
+
+.label {
+    -fx-border-radius: 4;
+    -fx-border-width: 4 ;
+    -fx-border-color: darkgreen;
+    -fx-background-radius: 6;
+    -fx-background-color: lightgreen;
+    -fx-font-family: "Comic Sans MS";
+}

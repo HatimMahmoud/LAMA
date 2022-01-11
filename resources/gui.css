@@ -1,0 +1,20 @@
+.ttip{
+    -fx-background-color: transparent;
+}
+
+.Button{
+    -fx-cursor: "Hand";
+}
+
+.start{
+    -fx-background-color: transparent;
+}
+
+.test{
+    -fx-padding: -50;
+}
+.invisButton{
+    -fx-padding: -50;
+    -fx-text-fill: #000000;
+
+}
