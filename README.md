@@ -8,3 +8,9 @@ See README.pdf
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/HatimMahmoud/LAMA/blob/main/Pr%C3%A4sentation_Ver2.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
+xfun::embed_file(""https://github.com/HatimMahmoud/LAMA/blob/main/Pr%C3%A4sentation_Ver2.pdf")
+
+
+<object data="/blog/images/xxx.pdf" type="application/pdf" width="100%"> 
