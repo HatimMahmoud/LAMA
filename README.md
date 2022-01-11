@@ -13,4 +13,4 @@ See README.pdf
 xfun::embed_file(""https://github.com/HatimMahmoud/LAMA/blob/main/Pr%C3%A4sentation_Ver2.pdf")
 
 
-<object data="/blog/images/xxx.pdf" type="application/pdf" width="100%"> 
+<object data="https://github.com/HatimMahmoud/LAMA/blob/main/Pr%C3%A4sentation_Ver2.pdf" type="application/pdf" width="100%"> 
